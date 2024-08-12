@@ -2,9 +2,9 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;Seniors/&gt;!
 </h1>
 <p align="center">
-    <a href="http://github.com/py-master-dev?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=py-master-dev&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
-    <a href="http://github.com/py-master-dev?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/py-master-dev?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a>
-    <img src="https://img.shields.io/github/stars/py-master-dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
+    <a href="http://github.com/SmartDev0331?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=py-master-dev&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
+    <a href="http://github.com/SmartDev0331?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/py-master-dev?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a>
+    <img src="https://img.shields.io/github/stars/SmartDev0331?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/>
 </p>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Python 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
@@ -19,9 +19,7 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=py-master-dev&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=py-master-dev&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="right.webp"/>
 </p>
 
 <h4 align="center">
